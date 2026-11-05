@@ -15,6 +15,9 @@
   "localScripts": [
     {
       "path": "a.js"
+    },
+    {
+      "path": "selected.js"
     }
   ]
 }
