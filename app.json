@@ -1,0 +1,20 @@
+{
+  "name": "xaaa",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    }
+  },
+  "localScripts": [
+    {
+      "path": "a.js"
+    }
+  ]
+}
